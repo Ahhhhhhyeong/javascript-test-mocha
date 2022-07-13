@@ -1,0 +1,14 @@
+##Mac
+**/.DS_Store
+
+## STS/Eclipse IDE
+**/.settings
+**/.classpath
+**/.project
+
+## VSCode
+.metaData
+.vscode
+
+## Node(JavaScript) Project
+**/node_modules
