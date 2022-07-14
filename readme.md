@@ -42,5 +42,9 @@ $ npx mocha test/ex01
 ![image](https://user-images.githubusercontent.com/50813232/178694876-8a94e30c-fa2b-4965-849d-cda450bb576c.png)   
 
 
+---
 
+## Assertion 기본
+* 테스트 케이스에서 수행되는 테스트 결과를 판별하기 위해 테스트 통과 조건과 테스트 대상 코드를 명시해야함. -> assertion 함수 사용
+* Mocha로 테스트 케이스를 작성하고 테스트할 때는 보통 외부 assertion 라이브러리를 사용.
 
